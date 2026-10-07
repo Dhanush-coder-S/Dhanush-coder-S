@@ -104,23 +104,6 @@ A React application demonstrating CRUD operations, Hooks, and reusable component
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanush-coder-S&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanush-coder-S&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhanush-coder-S&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
 ---
 
 # 🛠 Currently Working On
